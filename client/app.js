@@ -52,7 +52,7 @@
     else{
 
     var options = {
-      "key": "rzp_test_H30iWQ76GpjAti", 
+      "key": "", 
       "currency": data.currency,
       "amount": 50000, 
       "name": "Dvan Website",
