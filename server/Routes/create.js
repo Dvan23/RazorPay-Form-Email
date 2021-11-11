@@ -201,8 +201,8 @@ const resendchemid = async (req,res) =>{
       }
         }
         const razorpayid = new Razorpay({
-            key_id : 'rzp_test_H30iWQ76GpjAti',
-            key_secret :'OXASxIF8VR1MezDdnMmkWrHA'
+            key_id : '',
+            key_secret :''
         })
 
         const razorpayement = async(req,res)=>{
